@@ -19,7 +19,7 @@
 				sh "docker login -u admin -p ${nexusPwd} 13.232.82.187:8083"
 		  }
 		  
-		  sh "docker push 13.232.82.187:8083/myweb:2.0.0"llo u8584iu7
+		  sh "docker push 13.232.82.187:8083/myweb:2.0.0"rqr rrwrwruu
 	   }
 	   
 	}
